@@ -32,7 +32,7 @@ Welcome to the 3D Shirt Customization App! This application allows you to person
     npm install
 
 3. **Open in Browser**: Once the development server is up and running, open your preferred web browser and visit `http://localhost:3000` to view the app.
-       ```sh
+   ```sh
     npm start
 
 ## Known Bug
