@@ -26,3 +26,17 @@ Welcome to the 3D Shirt Customization App! This application allows you to person
 
    ```sh
    git clone https://github.com/your-username/3d-shirt-customization-app.git
+
+2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies:
+
+2. **Open in Browser**: Once the development server is up and running, open your preferred web browser and visit `http://localhost:3000` to view the app.
+
+## Known Bug
+
+- **Open API Issue**: We are presently encountering difficulties with the Open API integration for customized animations. Our team is actively working on resolving this issue. We apologize for any inconvenience caused.
+
+## Contributing
+
+We enthusiastically welcome contributions aimed at enhancing the app's features, resolving bugs, or refining user experience. Kindly submit pull requests or initiate discussions via issues in the repository.
+
+
