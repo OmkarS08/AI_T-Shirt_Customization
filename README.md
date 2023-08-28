@@ -28,8 +28,12 @@ Welcome to the 3D Shirt Customization App! This application allows you to person
    git clone https://github.com/your-username/3d-shirt-customization-app.git
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies:
+    ```sh
+    npm install
 
-2. **Open in Browser**: Once the development server is up and running, open your preferred web browser and visit `http://localhost:3000` to view the app.
+3. **Open in Browser**: Once the development server is up and running, open your preferred web browser and visit `http://localhost:3000` to view the app.
+       ```sh
+    npm start
 
 ## Known Bug
 
