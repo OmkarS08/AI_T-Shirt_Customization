@@ -1,6 +1,6 @@
 # 3D Shirt Customization App
 
-![App Preview](app-preview.jpg)
+![App Preview](Screenshot%202023-08-21%20183123.png)
 
 ## Description
 
