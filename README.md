@@ -2,8 +2,10 @@
 
 ![App Preview](Screenshot%202023-08-21%20183123.png)
 
-## Hosted Link
-([Link text]((https://comfy-sunshine-614efe.netlify.app/)))
+### Hosted Link
+
+[Visit the website](https://comfy-sunshine-614efe.netlify.app/)
+
 
 
 ## Description
