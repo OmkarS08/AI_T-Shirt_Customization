@@ -4,7 +4,7 @@
 
 ### Hosted Link
 
-[Visit the website](https://comfy-sunshine-614efe.netlify.app/)
+[Visit the website](https://monumental-sprinkles-ef08a0.netlify.app/)
 
 
 
