@@ -3,7 +3,7 @@
 ![App Preview](Screenshot%202023-08-21%20183123.png)
 
 ## Hosted Link
-[Link text]([https://website-name.com](https://website-name.com](https://comfy-sunshine-614efe.netlify.app/))
+[Link text]((https://comfy-sunshine-614efe.netlify.app/))
 
 
 ## Description
